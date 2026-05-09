@@ -1,2 +1,3 @@
-# webstudio-stomatologiya-ardent-51129224
-Web Studio landing for Стоматология АРДент
+# Welcome to your Lovable project
+
+TODO: Document your project here
